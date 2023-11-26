@@ -1,3 +1,4 @@
-a=150
-b=20
-print(a+b)
+
+a = 250
+b = 20
+print(a + b)
